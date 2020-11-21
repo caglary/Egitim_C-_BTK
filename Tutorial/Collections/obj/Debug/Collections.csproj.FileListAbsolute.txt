@@ -1,0 +1,7 @@
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Collections\bin\Debug\Collections.exe.config
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Collections\bin\Debug\Collections.exe
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Collections\bin\Debug\Collections.pdb
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Collections\obj\Debug\Collections.exe
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Collections\obj\Debug\Collections.pdb
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Collections\obj\Debug\Collections.csprojAssemblyReference.cache

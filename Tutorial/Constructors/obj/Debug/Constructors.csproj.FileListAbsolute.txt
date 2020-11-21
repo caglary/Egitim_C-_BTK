@@ -1,0 +1,7 @@
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Constructors\bin\Debug\Constructors.exe
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Constructors\bin\Debug\Constructors.pdb
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Constructors\obj\Debug\Constructors.csprojAssemblyReference.cache
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Constructors\obj\Debug\Constructors.exe
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Constructors\obj\Debug\Constructors.pdb

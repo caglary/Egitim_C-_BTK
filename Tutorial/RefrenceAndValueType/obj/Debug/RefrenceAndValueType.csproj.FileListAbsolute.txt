@@ -1,0 +1,7 @@
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\RefrenceAndValueType\bin\Debug\RefrenceAndValueType.exe.config
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\RefrenceAndValueType\bin\Debug\RefrenceAndValueType.exe
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\RefrenceAndValueType\bin\Debug\RefrenceAndValueType.pdb
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\RefrenceAndValueType\obj\Debug\RefrenceAndValueType.csprojAssemblyReference.cache
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\RefrenceAndValueType\obj\Debug\RefrenceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\RefrenceAndValueType\obj\Debug\RefrenceAndValueType.exe
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\RefrenceAndValueType\obj\Debug\RefrenceAndValueType.pdb
