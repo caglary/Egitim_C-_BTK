@@ -1,0 +1,7 @@
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache

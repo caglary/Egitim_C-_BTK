@@ -20,3 +20,7 @@ C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Northwind.WebFormsUI\obj
 C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CopyComplete
 C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.exe
 C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.pdb
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Northwind.WebFormsUI\bin\Debug\FluentValidation.dll
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Northwind.WebFormsUI\bin\Debug\FluentValidation.xml
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Northwind.WebFormsUI\bin\Debug\Ninject.dll
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Northwind.WebFormsUI\bin\Debug\Ninject.xml

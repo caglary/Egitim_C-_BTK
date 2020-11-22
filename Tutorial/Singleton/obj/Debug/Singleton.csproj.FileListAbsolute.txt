@@ -1,0 +1,7 @@
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Singleton\bin\Debug\Singleton.exe
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Singleton\bin\Debug\Singleton.pdb
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Singleton\obj\Debug\Singleton.exe
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Singleton\obj\Debug\Singleton.pdb

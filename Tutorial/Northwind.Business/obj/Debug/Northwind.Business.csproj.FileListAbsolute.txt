@@ -12,3 +12,10 @@ C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Northwind.Business\obj\D
 C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Northwind.Business\obj\Debug\Northwind.Business.csproj.CopyComplete
 C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Northwind.Business\obj\Debug\Northwind.Business.dll
 C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Northwind.Business\obj\Debug\Northwind.Business.pdb
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Northwind.Business\bin\Debug\FluentValidation.dll
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Northwind.Business\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Northwind.Business\bin\Debug\System.ValueTuple.dll
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Northwind.Business\bin\Debug\FluentValidation.xml
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Northwind.Business\bin\Debug\System.ValueTuple.xml
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Northwind.Business\bin\Debug\Ninject.dll
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Northwind.Business\bin\Debug\Ninject.xml
