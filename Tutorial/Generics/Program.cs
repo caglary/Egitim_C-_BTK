@@ -10,14 +10,34 @@ namespace Generics
     {
         static void Main(string[] args)
         {
+            Utilities utilities = new Utilities();
+            List<string> result = utilities.BuildList("İzmir", "Adana", "İstanbul");
+            foreach (var item in result)
+            {
+                Console.WriteLine(item);
+            }
+
+            List<Customer> customers = utilities.BuildList<Customer>(
+                new Customer { FirstName = "Çağlar" },
+                new Customer { FirstName = "Eda" },
+                new Customer { FirstName = "Muhammed Emin" });
+            foreach (var item in customers)
+            {
+                Console.WriteLine(item.FirstName);
+            }
+            Console.ReadLine();
         }
+    }
+    class Customer
+    {
+        public string FirstName { get; set; }
     }
     interface IProduct:IRepository<Product>
     {
       
         
     }
-    interface IRepository<T>
+    interface IRepository<T> where T:class ,new ()
     {
         List<T> GetAll();
         T Get(int id);
@@ -51,5 +71,16 @@ namespace Generics
         {
             throw new NotImplementedException();
         }
+
     }
+
+    class Utilities
+    {
+        public List<T> BuildList<T>(params T[] items)
+        {
+            return new List<T>(items);
+        }
+    }
+
+
 }

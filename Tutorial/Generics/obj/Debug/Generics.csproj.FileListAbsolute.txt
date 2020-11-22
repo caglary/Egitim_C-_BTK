@@ -1,0 +1,7 @@
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Generics\bin\Debug\Generics.exe.config
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Generics\bin\Debug\Generics.exe
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Generics\bin\Debug\Generics.pdb
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Generics\obj\Debug\Generics.exe
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Generics\obj\Debug\Generics.pdb

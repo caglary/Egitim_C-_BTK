@@ -1,0 +1,7 @@
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Attributes\obj\Debug\Attributes.csprojAssemblyReference.cache
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Attributes\bin\Debug\Attributes.exe
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Attributes\bin\Debug\Attributes.pdb
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Attributes\obj\Debug\Attributes.exe
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Attributes\obj\Debug\Attributes.pdb

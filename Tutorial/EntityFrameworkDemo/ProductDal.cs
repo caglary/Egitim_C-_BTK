@@ -41,6 +41,13 @@ namespace EntityFrameworkDemo
                 context.SaveChanges();
             }
         }
+
+        //      Linq sorguları database içerisinde yapılmalı.Bu şekilde yapılan sorgulamalarda ,
+        //      sorgu database içerisinde yapıldığı için büyük küçük harf hassasiyeti bulunmuyor. 
+        //      Ama Database üzerinden tüm listeyi getirip orada linq sorgusu yazarsak, 
+        //      büyük küçük harf hassasiyetine dikkat etmeliyiz. çünkü sorgu c# üzerinden yapılıyor 
+        //      ve c# içinde büyük küçük harf hassasiyeti söz konusu.
+
         public List<Product> GetByName(string key)
         {
             using (ETradeContext context = new ETradeContext())
@@ -57,6 +64,7 @@ namespace EntityFrameworkDemo
         }
         public List<Product> GetByUnitPrice(decimal min,decimal max)
         {
+           
             using (ETradeContext context = new ETradeContext())
             {
                 return context.Products.Where(p => p.UnitPrice >= min && p.UnitPrice<max).ToList();

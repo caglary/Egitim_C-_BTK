@@ -1,0 +1,6 @@
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Nortwind.Entities\bin\Debug\Nortwind.Entities.dll
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Nortwind.Entities\bin\Debug\Nortwind.Entities.pdb
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Nortwind.Entities\obj\Debug\Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Nortwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Nortwind.Entities\obj\Debug\Nortwind.Entities.dll
+C:\Users\caglar\Documents\GitHub\Egitim_C-_BTK\Tutorial\Nortwind.Entities\obj\Debug\Nortwind.Entities.pdb
